@@ -39,6 +39,12 @@ A smart waste management system with AI-based waste classification, reward point
 git clone https://github.com/Anil-29k/Smart_Reuse_Kiosk
 cd Smart_Reuse_Kiosk
 ```
+### Data set Link
+```
+https://drive.google.com/drive/folders/1-3oMnpJ--VhC0JSGuPBjM6JFihbTUUbF?usp=sharing
+
+Downlode and name the folder as given below 
+```
 
 ## Folder Structure
 ```
