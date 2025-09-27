@@ -36,8 +36,8 @@ A smart waste management system with AI-based waste classification, reward point
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/waste-management.git
-cd waste-management
+git clone https://github.com/Anil-29k/Smart_Reuse_Kiosk
+cd Smart_Reuse_Kiosk
 ```
 
 ## Folder Structure
