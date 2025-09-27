@@ -43,8 +43,8 @@ cd Smart_Reuse_Kiosk
 ```
 https://drive.google.com/drive/folders/1-3oMnpJ--VhC0JSGuPBjM6JFihbTUUbF?usp=sharing
 
-Downlode and name the folder as given below 
 ```
+Downlode and name the folder as given below 
 
 ## Folder Structure
 ```
