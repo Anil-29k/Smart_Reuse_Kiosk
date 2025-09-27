@@ -1,0 +1,9 @@
+.venv
+data_loader.py
+data_split.py
+dataProcess.py
+dection.py
+test.py
+WastData.zip
+__pycache__
+data
